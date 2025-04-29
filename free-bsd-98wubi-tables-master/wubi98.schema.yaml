@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wmwubi98
+  schema_id: wubi98
   name: "王码五笔98"
   version: "0.21"
   author:
@@ -51,7 +51,7 @@ speller:
   #max_code_length: 4
 
 translator:
-  dictionary: wmwubi98
+  dictionary: wubi98
   enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true
